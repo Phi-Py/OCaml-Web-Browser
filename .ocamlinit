@@ -1,0 +1,10 @@
+#directory "_build";;
+#require "graphics";;
+#load "str.cma";;
+#require "curl";;
+#require "csv";;
+#load_rec "gui.cmo";;
+#use "parse.ml";;
+#use "webgrab.ml";;
+#use "gui.ml";;
+#use "saved.ml";;
